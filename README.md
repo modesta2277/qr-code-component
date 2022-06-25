@@ -14,7 +14,7 @@
 
 ### Links
 
-- Project URL: [QR-code-component]()
+- Project URL: [QR-code-component](https://modesta2277.github.io/qr-code-component/)
 
 ### Built with
 
